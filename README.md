@@ -7,12 +7,23 @@ animals' owners
 clinic employees
 visits
 
+## Built With
+
+- ![](https://img.shields.io/badge/Github-blueviolet)
+- ![](https://img.shields.io/badge/PostgreSQL-blue)
+
 ## Author
 
 👤 **Terbeche Mostefa**
 
 - GitHub: [@githubhandle](https://github.com/Terbeche)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustapha-terbeche/)
+
+## Setup
+
+If you wish to run the project locally, please do the following:
+
+- Clone the repository to your local machine. - **`git clone https://github.com/Terbeche/Vet-clinic-database.git`** - **`cd Vet-clinic-database`**
 
 ## 🤝 Contributing
 
