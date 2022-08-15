@@ -19,6 +19,11 @@ visits
 - GitHub: [@githubhandle](https://github.com/Terbeche)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustapha-terbeche/)
 
+👤 **Hakim**
+
+- GitHub: [@teckim](https://github.com/teckim)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hakim-bhd/)
+
 ## Setup
 
 If you wish to run the project locally, please do the following:
