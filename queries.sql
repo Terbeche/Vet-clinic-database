@@ -136,3 +136,17 @@ SELECT animals.name,date_of_birth,escape_attempts,neutered,weight_kg,species.nam
     JOIN visits ON animals.id  = visits.animals_id
     JOIN vets ON visits.vets_id = vets.id  WHERE vets.name = 'Maisy Smith'
     GROUP BY species.name ORDER BY number_of_visits DESC LIMIT 1;
+
+
+
+  -- Query to speed up the performance
+    create index visits_asc on visits(animal_id asc);
+
+-- Query to speed up the performance
+    create index visits_vets_asc on visits(vet_id asc);
+
+-- Query to speed up the performance
+    create index owners_email_asc on owners(email asc);
+
+
+
