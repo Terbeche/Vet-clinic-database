@@ -142,7 +142,7 @@ SELECT animals.name,date_of_birth,escape_attempts,neutered,weight_kg,species.nam
   -- Query to speed up the performance
     create index visits_asc on visits(animal_id asc);
 
--- Query to speed up the performance
+-- Query to speed up the performance  
     create index visits_vets_asc on visits(vet_id asc);
 
 -- Query to speed up the performance
